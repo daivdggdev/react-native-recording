@@ -36,10 +36,5 @@
   },
   "presets": [
     "react-native"
-  ],
-  "rnpm": {
-    "android": {
-      "sourceDir": "lib/android"
-    }
-  }
+  ]
 }
