@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'React'
 
-  s.source_files = 'ios/Recording.{h,m}'
+  s.source_files = 'lib/ios/Recording.{h,m}'
 end
