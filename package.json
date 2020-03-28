@@ -14,12 +14,11 @@
     "url": "https://github.com/qiuxiang/react-native-recording"
   },
   "files": [
-    "lib/index.js",
-    "lib/android/src",
-    "lib/android/build.gradle",
-    "lib/ios"
+    "index.js",
+    "android/",
+    "ios/"
   ],
-  "main": "lib",
+  "main": "index.js",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "run-android": "node node_modules/react-native/local-cli/cli.js run-android",
